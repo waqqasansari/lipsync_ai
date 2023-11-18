@@ -12,6 +12,14 @@ matches the lip movements of the characters in the given video file with the cor
 
 - **GfpGAN:** GfpGAN for enhancing the video created by wave2lip.
 
+### Inputs
+- [audio](https://drive.google.com/file/d/1Xt66mzCa0Q7r6IfIeUzMAm3xVAIT9VT0/view?usp=sharing)
+- [video](https://drive.google.com/file/d/19M2rnbaCbr5lcDE8rCcq501s92PZL4kF/view?usp=sharing)
+- [Still pic](https://drive.google.com/file/d/1B2PgcSZPUfogeg2px9cB3PXJDhzLgEcX/view?usp=sharing)
+
+### Outputs
+- [video](https://drive.google.com/file/d/1ZeLl-2hbdyTU5nqSS4R_tXe3ZDYCEU-t/view?usp=sharing)
+- [Still pic](https://drive.google.com/file/d/1JcrcpvzpKTFsSwp4CHqGArOzCndxLYzp/view?usp=sharing)
 
 ### How to Use
 
